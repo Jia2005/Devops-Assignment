@@ -110,13 +110,6 @@ Thumbs.db
 *.pem
 *.key
 
-# Docker
-.dockerignore
-
-# Screenshots and documentation assets (optional - remove if you want to commit them)
-screenshots/
-docs/assets/
-
 # Backup files
 *.bak
 *.backup
