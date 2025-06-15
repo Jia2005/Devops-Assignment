@@ -228,7 +228,7 @@ docker ps  # Container status
 docker logs devops-app  # Application logs
 ```
 
-## 🔗 Live Links
+## 🔗 Project Links
 - **GitHub Repository**: [DevOps Assignment](https://github.com/Jia2005/Devops-Assignment)
 - **Screenshots & Documentation**: [Google Drive](https://drive.google.com/drive/folders/1Slnr2Jwm4YjasC67Ga1G5L2ZL4PxKQ4l?usp=drive_link)
 
