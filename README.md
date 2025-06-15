@@ -1,4 +1,4 @@
-# DevOps Assignment - Docker + AWS EC2 Deployment
+# DevOps Assignment
 
 A simple Node.js web application containerized with Docker and deployed on AWS EC2. The app displays a DevOps dashboard with system information and server status.
 
@@ -230,7 +230,7 @@ docker logs devops-app  # Application logs
 
 ## 🔗 Live Links
 - **GitHub Repository**: [DevOps Assignment](https://github.com/Jia2005/Devops-Assignment)
-- **Screenshots & Documentation**: [Google Drive]([https://drive.google.com/your-link-here](https://drive.google.com/drive/folders/1Slnr2Jwm4YjasC67Ga1G5L2ZL4PxKQ4l?usp=drive_link))
+- **Screenshots & Documentation**: [Google Drive](https://drive.google.com/drive/folders/1Slnr2Jwm4YjasC67Ga1G5L2ZL4PxKQ4l?usp=drive_link)
 
 ## 📚 Complete Command Reference
 
